@@ -1,0 +1,6 @@
+{
+  "name": "CAPACITY CONNECT",
+  "description": "Digital Capacity Building and Learning Management Portal - Ministry of Earth Sciences (MoES), India Meteorological Department.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
